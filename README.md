@@ -1,1 +1,2 @@
-# typeScript-
+# typeScript-专项训练
+## 搭建环境 程序设计思想 外层模块架子
